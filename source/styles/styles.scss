@@ -1,0 +1,25 @@
+// GLOBAL
+@import "global/common.scss";
+@import "global/fonts.scss";
+@import "global/global.scss";
+@import "global/mixins";
+@import "global/visually-hidden.scss";
+
+// BLOCKS
+@import "blocks/main-header.scss";
+@import "blocks/main-nav.scss";
+@import "blocks/compare-slider.scss";
+@import "blocks/address.scss";
+@import "blocks/case.scss";
+@import "blocks/container.scss";
+@import "blocks/hero.scss";
+@import "blocks/html-academy.scss";
+@import "blocks/logo-text.scss";
+@import "blocks/main-footer.scss";
+@import "blocks/form/about-group.scss";
+@import "blocks/form/check-group.scss";
+@import "blocks/form/contacts-group.scss";
+@import "blocks/form/main-form.scss";
+@import "blocks/form/radio-group.scss";
+@import "blocks/form/textarea-group.scss";
+
