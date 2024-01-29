@@ -10,3 +10,8 @@
   color: $basic-black;
   text-decoration: none;
 }
+
+.site-list__link--current {
+  color: $basic-black;
+  text-decoration: underline;
+}
